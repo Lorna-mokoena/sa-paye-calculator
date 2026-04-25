@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>South Africa PAYE Calculator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="menu">
+<a href="index.html">Calculator</a>
+<a href="paye-guide.html">PAYE Guide</a>
+<a href="tax-brackets.html">Tax Brackets</a>
+<a href="about.html">About</a>
+</nav>
+
+<div class="hero">
+<h1>Free South African PAYE Calculator</h1>
+
+<p>Estimate PAYE tax and net salary instantly.</p>
+
+</div>
+
+<div class="container">
+
+<h2>Monthly Gross Salary</h2>
+
+<input
+id="salary"
+type="number"
+placeholder="Enter monthly salary">
+
+<button onclick="calcPAYE()">
+Calculate
+</button>
+
+<div id="results"></div>
+
+</div>
+
+</body>
+
+<script src="script.js"></script>
+
+</html>

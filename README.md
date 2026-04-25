@@ -1,2 +1,9 @@
-# sa-paye-calculator
-South African PAYE calculator, net salary estimator and tax guide web tool for employees and freelancers.
+# South African PAYE Calculator
+
+Free PAYE calculator and salary tax estimator for South Africa.
+
+Features:
+- PAYE estimates
+- Net salary calculator
+- Tax guides
+- South African tax resources
